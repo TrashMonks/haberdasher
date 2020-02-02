@@ -1,0 +1,8 @@
+.BodyLayout {
+    padding: 25px;
+    padding-left:200px;
+    display: grid;
+    width: 500px;
+    height: 500px;
+    grid-template-columns: repeat(4, 1fr);
+}
