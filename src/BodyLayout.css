@@ -1,6 +1,5 @@
 .BodyLayout {
-    padding: 25px;
-    padding-left:200px;
+    padding-top: 10px;
     display: grid;
     width: 500px;
     height: 500px;

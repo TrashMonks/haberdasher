@@ -1,4 +1,5 @@
 .Haberdasher {
+    display:flex;
     padding: 25px;
     background-color: #0D3231;
     min-height: 100vh;
